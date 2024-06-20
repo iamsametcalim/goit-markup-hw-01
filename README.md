@@ -1,3 +1,3 @@
 # goit-markup-hw-01
-# head bod footer oluşturuldu
+# head body footer oluşturuldu
 # gerekli revizeler yapıldı
